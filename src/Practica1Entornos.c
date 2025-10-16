@@ -13,7 +13,7 @@ int main() {
     scanf("%d", &nacimiento);
 
     edad = 2025 - nacimiento;
-    printf("[translate:Hola %s, tienes %d años. Este programa está hecho en el lenguaje de programación: C]", nombre, edad);
+    printf("Hola %s, tienes %d años. Este programa está hecho en el lenguaje de programación: C]", nombre, edad);
 
     return 0;
 }
